@@ -1,4 +1,4 @@
-# Claude for Linux 🐧
+# Claude for Linux 🐧 (initially only for fedora)
 
 An unofficial desktop application for Claude AI on Linux, built with Electron.
 
