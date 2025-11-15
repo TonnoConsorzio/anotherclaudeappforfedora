@@ -21,6 +21,7 @@
   "build": {
     "appId": "com.claude.linux",
     "productName": "Claude",
+    "publish": null,
     "linux": {
       "target": [
         "AppImage",
@@ -31,4 +32,4 @@
       "icon": "assets/icon.png"
     }
   }
-}
+  }
